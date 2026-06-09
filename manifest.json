@@ -1,6 +1,6 @@
 {
-  "name": "Italiano Vokabeltrainer 2",
-  "short_name": "Italiano 2",
+  "name": "Suse Italiano",
+  "short_name": "Suse Italiano",
   "description": "Italienisch-Deutsch Vokabeltrainer mit Leitner-System",
   "start_url": "./index.html",
   "display": "standalone",
